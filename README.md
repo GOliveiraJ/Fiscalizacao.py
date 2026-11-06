@@ -1,5 +1,3 @@
-# AppFiscalizacao.py
-
 # 🔍 Portal de Fiscalização GGTAB/ANVISA
 
 Uma aplicação web interativa desenvolvida em Python e Streamlit para otimizar e digitalizar o processo de auditoria e fiscalização de produtos regulados. O sistema unifica bases de dados e permite operações em tempo real com geração automatizada de autos de infração.
